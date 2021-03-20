@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          1234
+          I am the new feauture added.
         </p>
         <a
           className="App-link"
